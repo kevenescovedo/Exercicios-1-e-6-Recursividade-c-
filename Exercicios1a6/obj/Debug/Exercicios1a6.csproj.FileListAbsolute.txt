@@ -1,0 +1,10 @@
+C:\Users\keven\source\repos\Exercicios1a6\Exercicios1a6\bin\Debug\Exercicios1a6.exe.config
+C:\Users\keven\source\repos\Exercicios1a6\Exercicios1a6\bin\Debug\Exercicios1a6.exe
+C:\Users\keven\source\repos\Exercicios1a6\Exercicios1a6\bin\Debug\Exercicios1a6.pdb
+C:\Users\keven\source\repos\Exercicios1a6\Exercicios1a6\obj\Debug\Exercicios1a6.csprojAssemblyReference.cache
+C:\Users\keven\source\repos\Exercicios1a6\Exercicios1a6\obj\Debug\Exercicios1a6.Form1.resources
+C:\Users\keven\source\repos\Exercicios1a6\Exercicios1a6\obj\Debug\Exercicios1a6.Properties.Resources.resources
+C:\Users\keven\source\repos\Exercicios1a6\Exercicios1a6\obj\Debug\Exercicios1a6.csproj.GenerateResource.cache
+C:\Users\keven\source\repos\Exercicios1a6\Exercicios1a6\obj\Debug\Exercicios1a6.csproj.CoreCompileInputs.cache
+C:\Users\keven\source\repos\Exercicios1a6\Exercicios1a6\obj\Debug\Exercicios1a6.exe
+C:\Users\keven\source\repos\Exercicios1a6\Exercicios1a6\obj\Debug\Exercicios1a6.pdb
